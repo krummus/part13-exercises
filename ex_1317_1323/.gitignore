@@ -1,0 +1,4 @@
+dist/
+node_modules/
+.env
+migrations/20230506_00_initialize_blogs_and_users.js

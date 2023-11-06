@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.env
+migrations/20230506_00_initialize_blogs_and_users.js
+ex_1301_1303/node_modules
+ex_1301_1303/.env
+ex_1304_1304/node_modules
+ex_1304_1304/.env
+ex_1305_1316/node_modules
+ex_1305_1316/.env
+ex_1317_1323/node_modules
+ex_1317_1323/.env
